@@ -1,0 +1,138 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  margin: 10px 200px;
+}
+.box-1 {
+  margin-right: 15px;
+  text-align: center;
+  background-color: rgb(244, 213, 213);
+}
+.box-1 h1 {
+  padding: 20px 10px;
+  font-family: sans-serif;
+}
+.box-1 img {
+  margin: 70px 0px;
+}
+.box-1 button {
+  margin: 30px 20px;
+  padding: 10px 40px;
+  border-radius: 30px;
+  color: white;
+  background-color: #6f2cff;
+}
+.box-1 .bar {
+  color: blue;
+  background-color: white;
+}
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  margin: 10px;
+  border: 1px;
+  padding: 10px;
+}
+
+.block {
+  float: left;
+  width: 31.5%;
+  margin: 10px;
+  border: 1px solid rgb(228, 158, 158);
+  padding: 20px;
+  text-align: center;
+  background-color: rgb(237, 228, 228);
+  border-radius: 15px;
+  font-size: 18px;
+  color: #6f2cff;
+  margin-bottom: 50px;
+  box-sizing: border-box;
+}
+.block img {
+  padding: 10px;
+}
+.box {
+  margin-bottom: 40px;
+  text-align: center;
+}
+.box-last {
+  width: 100%;
+}
+.last1 {
+  display: inline-block;
+  width: 48%;
+  padding: 30px;
+  border-radius: 15px;
+  color: white;
+  font-size: 18px;
+  background-color: rgb(53, 56, 75);
+}
+.last1 .br1 {
+  text-decoration: underline;
+}
+.last2 {
+  display: inline-block;
+  margin: 20px 20px;
+  width: 48%;
+  padding: 30px;
+  border-radius: 15px;
+  color: white;
+  font-size: 18px;
+  background-color: rgb(53, 56, 75);
+}
+.last2 .br2 {
+  text-decoration: underline;
+}
+.last3 {
+  display: inline-block;
+  width: 48%;
+  padding: 30px;
+  border-radius: 15px;
+  color: white;
+  font-size: 18px;
+  background-color: rgb(53, 56, 75);
+}
+.last3 .br3 {
+  text-decoration: underline;
+}
+.last4 {
+  display: inline-block;
+  margin: 20px 20px;
+  width: 48%;
+  padding: 30px;
+  border-radius: 15px;
+  color: white;
+  font-size: 18px;
+  background-color: rgb(53, 56, 75);
+}
+.last4 .br4 {
+  text-decoration: underline;
+}
+.last5 {
+  display: inline-block;
+  width: 48%;
+  padding: 30px;
+  border-radius: 15px;
+  color: white;
+  font-size: 18px;
+  background-color: rgb(53, 56, 75);
+}
+.last5 .br5 {
+  text-decoration: underline;
+}
+.last6 {
+  display: inline-block;
+  margin: 20px 20px;
+  width: 48%;
+  padding: 30px;
+  border-radius: 15px;
+  color: white;
+  font-size: 18px;
+  background-color: rgb(53, 56, 75);
+}
+.last6 .br6 {
+  text-decoration: underline;
+}
